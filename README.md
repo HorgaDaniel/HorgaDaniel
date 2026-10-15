@@ -1,16 +1,15 @@
 ## Hi there 👋
+# Daniel Horga | Graduate Computer Engineer
 
-<!--
-**HorgaDaniel/HorgaDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Passionate Engineer open to learning new technologies.
 
-Here are some ideas to get you started:
+- 🎓 **Degree:** Electrical Engineering & Computer Science
+- 💼 **Status:** Open for Entry-Level Roles / Internships / Junior Positions
+- 🚀 **Focus:** Fast learner, versatile, tech enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Skills
+
+- **Software Development:** `Python` `Java` `SQL / Databases` `C` `C++` `Git` `OOP` `Data Structures & Algorithms` 
+- **Embedded & Hardware:** `Microcontrollers & Microprocessors` `Digital Systems & Electronics` `Data Acquisition (DAQ)` `Hardware Interfacing `
+
+
